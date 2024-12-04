@@ -3,7 +3,7 @@
 	"package": "dev.taintedphoenix.mods.endportalunfixer.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"PositionTrackerMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

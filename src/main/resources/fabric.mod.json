@@ -16,18 +16,11 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"dev.taintedphoenix.mods.endportalunfixer.ExampleMod"
-		],
-		"client": [
-			"dev.taintedphoenix.mods.endportalunfixer.ExampleModClient"
+			"dev.taintedphoenix.mods.endportalunfixer.EndPortalUnfixerMod"
 		]
 	},
 	"mixins": [
-		"end-portal-unfixer.mixins.json",
-		{
-			"config": "end-portal-unfixer.client.mixins.json",
-			"environment": "client"
-		}
+		"end-portal-unfixer.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.7",
