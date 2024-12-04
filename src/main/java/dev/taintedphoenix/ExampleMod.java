@@ -1,4 +1,4 @@
-package com.example;
+package dev.taintedphoenix;
 
 import net.fabricmc.api.ModInitializer;
 
