@@ -1,4 +1,4 @@
-package dev.taintedphoenix;
+package dev.taintedphoenix.mods.endportalunfixer;
 
 import net.fabricmc.api.ClientModInitializer;
 

@@ -1,4 +1,4 @@
-package dev.taintedphoenix.mixin;
+package dev.taintedphoenix.mods.endportalunfixer.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

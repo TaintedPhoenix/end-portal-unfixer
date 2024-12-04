@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"dev.taintedphoenix.ExampleMod"
+			"dev.taintedphoenix.mods.endportalunfixer.ExampleMod"
 		],
 		"client": [
-			"dev.taintedphoenix.ExampleModClient"
+			"dev.taintedphoenix.mods.endportalunfixer.ExampleModClient"
 		]
 	},
 	"mixins": [
